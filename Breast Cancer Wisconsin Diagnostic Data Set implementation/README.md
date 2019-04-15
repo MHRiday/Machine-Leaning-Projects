@@ -1,0 +1,1 @@
+For this mini-project i used wisconsin breat cancer data-sets. Datasets collects from kaggle.com!
