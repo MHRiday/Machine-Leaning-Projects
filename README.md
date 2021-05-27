@@ -8,3 +8,6 @@ Machine Learning approaches are divided into three categories.
 - Unsupervised Learning : Unsupervised Learning is a machine learning approach where algorithms discover hidden pattern or data grouping in a dataset with no labels and minimal human intervention. This approach is ideal solution for exploratory data analysis, customer segmentation etc. 
 
 - Reinforcement Learning : Reinforcement Learning is a method of machine learning where an agant learns to make decision over time with consequences. It has a broad range of applications : game playing, recommendations, system optimization etc. 
+
+## Machine Learning Projects
+1. [Boston house price predictive analysis](Boston house price predictive analysis)
