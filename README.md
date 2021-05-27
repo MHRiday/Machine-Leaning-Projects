@@ -11,3 +11,4 @@ Machine Learning approaches are divided into three categories.
 
 ## Machine Learning Projects
 1. [Boston house price predictive analysis](Boston%20house%20price%20predictive%20analysis)
+2. [Breast Cancer Wisconsin Diagnostic Data-set predictive analysis](Breast%20Cancer%20Wisconsin%20Diagnostic%20Data-set%20predictive%20analysis)
