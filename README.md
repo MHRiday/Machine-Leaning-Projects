@@ -10,4 +10,4 @@ Machine Learning approaches are divided into three categories.
 - Reinforcement Learning : Reinforcement Learning is a method of machine learning where an agant learns to make decision over time with consequences. It has a broad range of applications : game playing, recommendations, system optimization etc. 
 
 ## Machine Learning Projects
-1. [Boston house price predictive analysis](Boston house price predictive analysis)
+1. [Boston house price predictive analysis](Boston%20house%20price%20predictive%20analysis)
